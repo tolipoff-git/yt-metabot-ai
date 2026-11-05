@@ -3,10 +3,9 @@
 // @namespace    yt-metabot-test-user-js
 // @description  More information about users and videos on YouTube.
 // @version      180414
-// @homepageURL  https://vk.com/public159378864
-// @supportURL   https://github.com/asrdri/yt-metabot-user-js/issues
-// @updateURL    https://raw.githubusercontent.com/asrdri/yt-metabot-user-js/master/yt-metabot-test.meta.js
-// @downloadURL  https://raw.githubusercontent.com/asrdri/yt-metabot-user-js/master/yt-metabot-test.user.js
+// @homepageURL  https://github.com/tolipoff-git/yt-metabot-ai
+// @supportURL   https://github.com/tolipoff-git/yt-metabot-ai/issues
+// Legacy upstream test script: automatic updates disabled to prevent upstream replacement.
 // @icon         https://github.com/asrdri/yt-metabot-user-js/raw/master/logo.png
 // @include      https://*youtube.com/*
 // @include      https://*dislikemeter.com/?v*
