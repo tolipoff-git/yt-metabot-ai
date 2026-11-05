@@ -11,7 +11,7 @@
 1. Установить [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) (или Tampermonkey, но первый стабильнее на MV3).
 2. Перейти на raw файл userscript'а — Violentmonkey предложит установку:
    ```
-   https://raw.githubusercontent.com/tolipoff-git/yt-metabot-ai/main/yt-metabot.user.js
+   https://raw.githubusercontent.com/tolipoff-git/yt-metabot-ai/master/yt-metabot.user.js
    ```
 3. В `vivaldi://extensions` или `chrome://extensions` → Violentmonkey → **Site access: «На всех сайтах»**.
 4. Открыть любое видео YouTube → кликнуть **🔧** возле заголовка комментариев.
